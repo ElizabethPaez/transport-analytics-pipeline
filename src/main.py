@@ -15,8 +15,8 @@ rutas = df.groupby(["origen", "destino"])["tiempo"].mean().reset_index()
 # Conteo por hora (para detectar horas pico)
 horas = df.groupby("hour").size().reset_index(name="viajes")
 
-print("📊 Tiempo promedio por ruta:")
+print("Tiempo promedio por ruta:")
 print(rutas)
 
-print("\n⏰ Viajes por hora:")
+print("\n Viajes por hora:")
 print(horas)

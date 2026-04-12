@@ -1,24 +1,24 @@
-# 🚇 Transport Analytics Pipeline
+# Transport Analytics Pipeline
 
-## 📖 Overview
+## Overview
 This project analyzes transport data to understand travel patterns between stations.
 
-## 🎯 Problem
+## Problem
 Transport systems need to process large volumes of data to identify peak hours and optimize routes.
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Python
 - Pandas
 
-## 🔧 Solution
+## Solution
 - Read transport data from CSV files
 - Process origin-destination routes
 - Calculate average travel times
 
-## 📊 Results
+## Results
 - Identified average travel time between routes
 
-## 🚀 How to run
+## How to run
 
 ```bash
 pip install pandas

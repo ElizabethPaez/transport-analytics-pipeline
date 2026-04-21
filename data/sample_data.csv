@@ -1,0 +1,5 @@
+origen,destino,tiempo
+A,B,10
+B,C,15
+A,C,20
+C,A,25

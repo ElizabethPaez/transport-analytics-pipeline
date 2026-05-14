@@ -21,7 +21,7 @@ Transport systems need to process large volumes of data to identify peak hours a
 ## How to run
 
 - Notebook
-
+- Bash
 ```bash
 pip install pandas
 python src/main.py

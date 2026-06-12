@@ -9,6 +9,7 @@ Transport systems need to process large volumes of data to identify peak hours a
 ## Tech Stack
 - Python
 - Pandas
+- AWS
 
 ## Solution
 - Read transport data from CSV files
